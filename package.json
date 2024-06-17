@@ -34,7 +34,7 @@
     "mathjax-node-page": "^3.0.1",
     "mermaid": "^8.0.0-rc.8",
     "pug": "^3.0.2",
-    "puppeteer": "^13.5.1",
+    "puppeteer": "^22.6.4",
     "sass": "^1.49.9"
   },
   "devDependencies": {
