@@ -24,7 +24,7 @@
     "deptree": "^1.0.0",
     "filesize": "^8.0.7",
     "html2jade": "^0.8.6",
-    "jimp": "^0.16.1",
+    "jimp": "^1.0.2",
     "js-yaml": "^4.1.0",
     "jstransformer-highlight": "^2.0.0",
     "jstransformer-markdown-it": "^2.1.0",
